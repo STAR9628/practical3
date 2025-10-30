@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "id": 1, "title": "React Basics", "author": "Dan Abramov" },
+    { "id": 2, "title": "Learning JavaScript", "author": "Kyle Simpson" }
+  ]
+}
